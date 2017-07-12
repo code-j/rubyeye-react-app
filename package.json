@@ -1,0 +1,22 @@
+{
+  "name": "rubyeye-react-app",
+  "version": "1.0.0",
+  "description": "루비아이 리액트 앱",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-j/rubyeye-react-app.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "darkrubyeye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-j/rubyeye-react-app/issues"
+  },
+  "homepage": "https://github.com/code-j/rubyeye-react-app#readme"
+}
