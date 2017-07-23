@@ -10,4 +10,5 @@ class Hello extends Component {
     }
 }
 
-render(<Hello />, document.getElementById('root'));
+render(<Hello />, document.getElementById('root')); 
+
